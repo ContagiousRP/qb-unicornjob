@@ -1,4 +1,6 @@
-https://discord.gg/3WYz3zaqG5
+https://discord.gg/ctrp
+
+## A READ ME FOR VANILLA UNICORN JOB
 
 # Updated - 06/07/22 - Added progress bar to opening items thanks to "TheManHimself" for putting it together.
 
